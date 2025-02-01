@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReactorPro 2025</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .container {
+            max-width: 900px;
+            margin: 50px auto;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+        h1 {
+            color: #d62828;
+        }
+        h2 {
+            color: #003049;
+        }
+        p {
+            color: #333;
+            line-height: 1.6;
+        }
+        .qr-code {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 ReactorPro 2025 🚀</h1>
+        <h2>An Innovation and Product Design Challenge</h2>
+        <p><strong>Date:</strong> 13th March 2025 (10 AM - 4 PM)</p>
+        <p><strong>Venue:</strong> 7th Block - Biochemical Engineering Lab</p>
+        
+        <h2>Event Description</h2>
+        <p>ReactorPro 2025 is an exciting and innovative competition for students in Bioengineering, Chemical Engineering, Pharmaceutical Sciences, and related fields. Participants will design and present small-scale working reactor prototypes addressing real-world applications.</p>
+        
+        <h2>Participation Mode</h2>
+        <p>👥 Team (4 members per team) - Open to students from all colleges. Interdisciplinary teams encouraged!</p>
+        
+        <h2>Prizes & Rewards</h2>
+        <p>🏆 1st Prize: ₹7,000 | 🥈 2nd Prize: ₹5,000 | 🥉 3rd Prize: ₹3,000</p>
+        
+        <h2>Event Guidelines</h2>
+        <ul>
+            <li>✔ Open to UG & PG students in relevant fields.</li>
+            <li>✔ Prototype must address Bioengineering, Chemical Engg, Pharmaceuticals, or Wastewater Treatment.</li>
+            <li>✔ Max size: 2x2x2 feet.</li>
+            <li>✔ Secure wiring, insulation & hazard control.</li>
+            <li>✔ Functional prototype must demonstrate a working process.</li>
+        </ul>
+        
+        <h2>Presentation & Demonstration</h2>
+        <p>⏳ 10-min presentation + 5-min Q&A | 📊 Use charts, videos & visuals</p>
+        
+        <h2>Judging Criteria</h2>
+        <ul>
+            <li>✔ Innovation & Creativity (30%)</li>
+            <li>✔ Functionality (25%)</li>
+            <li>✔ Relevance (20%)</li>
+            <li>✔ Sustainability (15%)</li>
+            <li>✔ Teamwork & Presentation (10%)</li>
+        </ul>
+        
+        <h2>Event Coordinators</h2>
+        <p>📞 Faculty Coordinator: Dr. J. Kanimozhi (8301075390) | 📧 kanimozhi.j@klu.ac.in</p>
+        <p>📞 Student Coordinator: Mr. S. Kavish (7339004815) | 📧 9921001015@klu.ac.in</p>
+        <p>📌 For more details: Mr. S.J. Kabilan (9629669335) | 📧 kabilan@klu.ac.in</p>
+        
+        <h2>Objectives of the Event</h2>
+        <ul>
+            <li>🌱 Sustainability: Energy-efficient and eco-friendly reactor designs.</li>
+            <li>📈 Scalability: Small-scale prototypes with industrial applications.</li>
+            <li>🤝 Interdisciplinary Collaboration: Integration of concepts from various fields.</li>
+            <li>💡 Problem-Solving: Addressing industrial and environmental challenges.</li>
+        </ul>
+        
+        <div class="qr-code">
+            <p><strong>📲 Scan & Explore ReactorPro 2025!</strong></p>
+            <img src="your-qr-code-link-here.png" alt="QR Code" width="150">
+        </div>
+        
+        <p>🔥 Fuel Your Passion for Engineering & Compete at ReactorPro 2025! 🔥</p>
+    </div>
+</body>
+</html>
